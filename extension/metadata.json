@@ -1,0 +1,6 @@
+   {
+     "uuid": "sysmon@local",
+     "name": "Sysmon",
+     "description": "CPU/RAM/Disk/Temp/Net strip in the top panel, powered by the sysmon Go binary",
+     "shell-version": ["48"]
+   }
